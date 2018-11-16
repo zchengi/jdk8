@@ -31,7 +31,11 @@ public class Test3 {
 
 //        list.stream().map(item -> item.toUpperCase()).forEach(item -> System.out.println(item));
         // 简写
-        list.stream().map(String::toUpperCase).forEach(System.out::println);
+//        list.stream().map(String::toUpperCase).forEach(System.out::println);
+
+
+//        Function<String, String> function = String::toUpperCase;
+//        System.out.println(function.getClass().getInterfaces()[0]);
     }
 }
 
