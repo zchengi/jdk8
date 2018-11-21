@@ -1,4 +1,4 @@
-package com.cheng.jdk8;
+package com.cheng.jdk8.function;
 
 import java.util.function.Predicate;
 

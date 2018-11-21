@@ -1,4 +1,4 @@
-package com.cheng.jdk8;
+package com.cheng.jdk8.function;
 
 import java.util.Comparator;
 import java.util.function.BinaryOperator;
